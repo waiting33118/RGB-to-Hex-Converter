@@ -1,0 +1,18 @@
+.red input[type='range']::-webkit-slider-thumb {
+  background: red;
+}
+.red input[type='range']::-webkit-slider-runnable-track{
+  background-color:rgb(247, 228, 228);
+}
+.green input[type='range']::-webkit-slider-thumb {
+  background: green;
+}
+.green input[type='range']::-webkit-slider-runnable-track{
+  background-color:rgb(189, 236, 189);
+}
+.blue input[type='range']::-webkit-slider-thumb {
+  background: blue;
+}
+.blue input[type='range']::-webkit-slider-runnable-track{
+  background-color:rgb(125, 197, 255);
+}
